@@ -1,0 +1,9 @@
+* toy dictionary with multi-fetch and mnemonic
+
+** TODO to be implemented
+   - [ ] fetching from : Merriam-Webster Wiktionary
+   - [ ] storing in local
+   - [ ] right click
+   - [ ] screen fetch
+   - [ ] integrate with shanbay
+   - [ ] multi device sync
