@@ -1,9 +1,10 @@
-* toy dictionary with multi-fetch and mnemonic
+* vocabulary builder with one-click
 
 ** TODO to be implemented
    - [ ] fetching from : Merriam-Webster Wiktionary
    - [ ] storing in local
    - [ ] right click
    - [ ] screen fetch
-   - [ ] integrate with shanbay
+   - [ ] repeat daily; seven times at least for each words
+   - [ ] integrate with dropbox
    - [ ] multi device sync
